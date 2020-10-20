@@ -2,4 +2,5 @@
 
 Tips and trick i find useful:
 
-- [How to make commits in the past](https://github.com/SrdjanStankov/Git_Cheat_Sheet/blob/master/Make%20Commits%20in%20the%20past.md)
+- [How to make commits in the past](Make%20Commits%20in%20the%20past.md)
+- [Kubernetes commands](Kubernetes%20commands.md)
